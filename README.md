@@ -8,8 +8,6 @@ This repository contains the necessary Python code to define, train and perform 
 
 ## Included Weights
 The included "model.h5" file can be used to load trained weights into the network. Training was done with 200 anime screenshots downscaled to 270x480 and 540x960 as the input/output pairs respectively.
-
-These inputs look like this:
 <img src="https://artoriuz.github.io/blog/images/husbando2x/trainingdata.png">
 
 ## Results
