@@ -12,4 +12,4 @@ The included "model.h5" file can be used to load trained weights into the networ
 
 ## Results
 You can check some comparions between Waifu2x and Husbando2x in the image below:
-<img src="https://artoriuz.github.io/blog/images/husbando2x/comparison2.png">
+<img src="https://artoriuz.github.io/blog/images/husbando2x/comparison2.png" width="600">
